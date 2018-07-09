@@ -16,8 +16,7 @@ import java.util.Map;
  * @Contents
  * - NS001 : Null, 공백처리
  * - NS002 : 데이터 파싱
- * 
- * @see Copyright ⓒ 2018. NsHomeShopping Corp.
+ *
  */
 public class NsCommUtil {
 
